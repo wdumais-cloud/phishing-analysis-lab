@@ -142,5 +142,4 @@ When investigating an email, there are certain headers and fields that warrant c
 
 * **Environment Isolation:**  
   Always use a Virtual Machine (VM) to investigate suspicious emails and attachments. 
-  Always use a Virtual Machine (VM) to investigate suspicious emails and attachments.
-  Always use a Virtual Machine (VM) to investigate suspicious emails and attachments.
+  
